@@ -1,0 +1,3 @@
+PyMySQL==0.10.1
+PyQt4-windows-whl @ file:///C:/Users/Roman/Desktop/Work%20for%20IT/Search%20jop/SAMSON/Samson_test/PyQt4_windows_whl-4.11.4.1-cp27-none-win_amd64.whl
+qtgui==0.0.1
